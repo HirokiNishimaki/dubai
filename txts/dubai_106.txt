@@ -1,1 +1,1 @@
-DUTYDE,9910,BAL,SENSOR,Tape,Light,Ugh,Top,Tape,Tape,Light,Tape,Light,TWIST,LANTERN,TWIST,LANTERN,SMD,タッチ,SMD,バック,ライト
+リングライト,DESK,DESK,セット,LIGHT,LIGHT,ライト,バーチャル,リアリティー,ゴーグル,バーチャル,リアリティー,ゴーグル,ゴーケス,バーチャル,リアリティー,ゴーグル,バーチャル,リアリティー,ゴーグル,ターン,シーン,使用,できる,7.50,ベルト,ベルト

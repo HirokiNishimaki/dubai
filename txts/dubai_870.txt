@@ -1,1 +1,1 @@
-COD,つまようじ,みょうじ,つまようじ,-250,All,つまようじ,400,-400,-400,つまようじ,400,よう,2625,つまようじ,400,400,400,7.50,V.O.,All
+スタンド,ホルダー,スタンド,ホルダー,タブレット,スタンド,タブレット,スタンド,EADPHONES,EADPHONES,FAN,BESK,Handy,Fam,Handy,Fan,Handy,Ming,HELD,FAN,HANDHELD,FAN

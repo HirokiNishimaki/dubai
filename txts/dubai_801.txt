@@ -1,1 +1,1 @@
-うちん,カラー,ぞうきん,MAXX,カラー,ぞうさん,そうじ,スリッパ,カバー
+All,unlabelled,items,are,AED,泡立つ

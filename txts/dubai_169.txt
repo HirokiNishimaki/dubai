@@ -1,1 +1,1 @@
-AROMA,SEAL,FACE,Sample,Sample,AROMA,DIFFUSER,STICK,AROMA,DIFFUSER,AROMA,DIFFUSER,Vick
+SOTA,NICAL,Pune,Stup,All,unlabelled,items,are,クラシック,フレーム,カント,プラ,All,unlabelled,items

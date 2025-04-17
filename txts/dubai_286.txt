@@ -1,1 +1,1 @@
-ACA,WARNING,Sätr,HAZARD,Fishing,WARNING,rea,HAZARD,浮く,シャフ,Cookie,Cutter,クッキー
+メジャー,x16m,ミックス,メジャー,3.5m,x16mm,GEAR,x16,GEAR,GEAR,Atwell,DLY

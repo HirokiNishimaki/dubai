@@ -1,1 +1,1 @@
-TOY,ロック,METAL,METAL,METAL,スタンド,スイッチ,スタンド,チンピース,フラワー
+All,unlabelled,items,are,AED

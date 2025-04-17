@@ -1,1 +1,1 @@
-CANDIE,LIGHT,CANDLELIGHT,CANDLE
+Hanging,bat,decoration,www

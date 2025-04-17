@@ -1,1 +1,1 @@
-お茶,199,パック,COFFEE,FILTERS,COFFEE
+All,unlabelled,items,are,AED
