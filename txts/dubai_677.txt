@@ -1,1 +1,1 @@
-おうそく,ローソク,ローソク,ローソク,All,unlabelled,items,are
+タイプ,タイプ,PRASA,ブロック,ブロック,プレ,ライブ,落ち,落ち,落ち,ション,スパンツ,落ち,落ち,ワイド,MELAMINE,SPONGE,CUT,TYPE,MELAMINE,SPONGE,MELAMINE,SPONGE,CUT,TYPE,CUT,TYPE,MELAMINE,SPONGE,CUT,TYPE

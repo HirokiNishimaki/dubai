@@ -1,1 +1,1 @@
-DUTYDE,9910,BAL,SENSOR,Tape,Light,Ugh,Top,Tape,Tape,Light,Tape,Light,TWIST,LANTERN,TWIST,LANTERN,SMD,タッチ,SMD,バック,ライト
+ちりとり,ホウキ,V.O,きやすい,ちりとり,BSARZAN,ホウキ,SVEV,ホウキ,ホウキ,ピタッ,PET,BOTTLE,CTRE

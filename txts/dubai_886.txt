@@ -1,1 +1,1 @@
-LOW,ネコ,CAT
+THE,Couple,2.5,Gif,2.5

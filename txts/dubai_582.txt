@@ -1,1 +1,1 @@
-WWN,ONL,Wrap
+GUN,バスケット,Bundles,Burbes,ROBO

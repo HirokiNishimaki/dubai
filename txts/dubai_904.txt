@@ -1,1 +1,1 @@
-CTS,CTS,CTS
+labelled,items,are,AED7

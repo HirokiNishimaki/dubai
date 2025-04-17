@@ -1,1 +1,1 @@
-BAI,DUE,003
+ローソク,クロック,All,unlabelled,items,are,AED

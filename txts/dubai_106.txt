@@ -1,1 +1,1 @@
-7.50V.o
+DUTYDE,9910,BAL,SENSOR,Tape,Light,Ugh,Top,Tape,Tape,Light,Tape,Light,TWIST,LANTERN,TWIST,LANTERN,SMD,タッチ,SMD,バック,ライト

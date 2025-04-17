@@ -1,1 +1,1 @@
-www,DUBA
+SALT,SALT

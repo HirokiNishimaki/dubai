@@ -1,1 +1,1 @@
-FOAM,BLASTER,NICHED,BATTLE,100,WATER,GAME
+スタンド,ホルダー,スタンド,ホルダー,タブレット,スタンド,タブレット,スタンド,EADPHONES,EADPHONES,FAN,BESK,Handy,Fam,Handy,Fan,Handy,Ming,HELD,FAN,HANDHELD,FAN
