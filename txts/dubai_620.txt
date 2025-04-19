@@ -1,1 +1,1 @@
-マーカー,EARL,GREY,GREEN,TEA,WHITE,SHAMPOO,MUSK,EARL,GREY,EARL,GREY,WHITE,MUSK,All,unlabelled,items,are,AED
+マーカー, EARL, GREY, GREEN, TEA, WHITE, SHAMPOO, MUSK, All, unlabelled, items, are, AED

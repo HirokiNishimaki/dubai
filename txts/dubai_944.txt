@@ -1,1 +1,1 @@
-おうそく,ローソク,ローソク,ローソク,All,unlabelled,items,are
+おうそく, ローソク, All, unlabelled, items, are

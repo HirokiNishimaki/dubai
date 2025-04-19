@@ -1,1 +1,1 @@
-Costume,ハロウィン,キラキラ,マスク,Costume,ハロウィン,キラキ,Costume
+Costume, ハロウィン, キラキラ, マスク, キラキ

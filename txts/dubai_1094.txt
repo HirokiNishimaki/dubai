@@ -1,1 +1,1 @@
-elled,items,are,AED,Aroma,Алоты,ОКТ,الغير,مسعرة,٧٥,دراهم
+elled, items, are, AED, Aroma, Алоты, ОКТ, الغير, مسعرة, ٧٥, دراهم

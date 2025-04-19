@@ -1,1 +1,1 @@
-Case,car,...,Coca,Cola,SUGGESTIE
+Case, car, ..., Coca, Cola, SUGGESTIE

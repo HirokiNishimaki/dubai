@@ -1,1 +1,1 @@
-WALL,CLOCK,WALL,CLOCK,投行,時計,Board,Light,WALL,CLOCK,チャン,ドル,ライト,サンド,ライト,キャンドル,ライト,AIR,キャンドル
+WALL, CLOCK, 投行, 時計, Board, Light, チャン, ドル, ライト, サンド, キャンドル, AIR

@@ -1,1 +1,1 @@
-now,Flakes,BAND,WATCH
+now, Flakes, BAND, WATCH

@@ -1,1 +1,1 @@
-Have,Coke,HERE,SUGGESTIE,Coca,Cola
+Have, Coke, HERE, SUGGESTIE, Coca, Cola

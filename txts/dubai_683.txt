@@ -1,1 +1,1 @@
-229,299,Cosmetic,Cosmetic,ALOCA,HAND,MIRROR,HOM
+229, 299, Cosmetic, ALOCA, HAND, MIRROR, HOM

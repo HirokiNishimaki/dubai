@@ -1,1 +1,1 @@
-Hanging,bat,decoration,www
+Hanging, bat, decoration, www

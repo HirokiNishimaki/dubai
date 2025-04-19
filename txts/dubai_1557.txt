@@ -1,1 +1,1 @@
-OFT,SOFT,GUN,SOFT,GUNO,飛び出す,SOFT,GUN,ソフト,ガン,SOFT,GUN,ソフト,ガン,GUN,GUN,双腿
+OFT, SOFT, GUN, GUNO, 飛び出す, ソフト, ガン, 双腿

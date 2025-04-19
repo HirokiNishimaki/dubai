@@ -1,1 +1,1 @@
-sare,AED,celled,items,are,AED,Paure,Nature
+sare, AED, celled, items, are, Paure, Nature

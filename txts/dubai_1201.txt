@@ -1,1 +1,1 @@
-Deney,Wall,Wall,WALL,CLOCK,seaso,キャンド,キャンドル,ライト,チャン,ドル,ライト,KHEDA,キャンドル,ライト,掛け時計,9.05,9.50
+Deney, Wall, WALL, CLOCK, seaso, キャンド, キャンドル, ライト, チャン, ドル, KHEDA, 掛け時計, 9.05, 9.50

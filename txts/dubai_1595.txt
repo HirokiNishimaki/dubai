@@ -1,1 +1,1 @@
-ベットフラタ,PETS,PETS,PET,DOC,PET,バンダナ,28-,28m,844,DOGS,DOGS
+ベットフラタ, PETS, PET, DOC, バンダナ, 28-, 28m, 844, DOGS

@@ -1,1 +1,1 @@
-Bags,Bundle,6p0s,deg,Cap
+Bags, Bundle, 6p0s, deg, Cap

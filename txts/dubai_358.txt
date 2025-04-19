@@ -1,1 +1,1 @@
-立つ,つま,つまっ,PET,BOTTLE,ITLE,PET
+立つ, つま, つまっ, PET, BOTTLE, ITLE

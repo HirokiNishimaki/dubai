@@ -1,1 +1,1 @@
-Onion,Slown,ボックス,DAZED,10-50,DAISO,10-50,rage,Box,ミックス,Stackable,Storage,Box,Storage,Box,収納,ボックス
+Onion, Slown, ボックス, DAZED, 10-50, DAISO, rage, Box, ミックス, Stackable, Storage, 収納

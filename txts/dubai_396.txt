@@ -1,1 +1,1 @@
-All,untob,items,are,AED
+All, untob, items, are, AED

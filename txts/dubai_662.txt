@@ -1,1 +1,1 @@
-GUN,バスケット,Bundles,Burbes,ROBO
+GUN, バスケット, Bundles, Burbes, ROBO

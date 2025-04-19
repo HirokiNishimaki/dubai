@@ -1,1 +1,1 @@
-LAY,ブルガ,MKALE,カリ,new,new,パワー,アルカリ,アル,アルカリ,アルカリ,new,ブルガリ,TARJER,アルカリ,乾電池,ALKALINE,アルカリ,new,LONG,LASTING,アルガ,PADURES,アルカリ,さく,Alkaline,Battery,アルカリ,乾電池,i.sv,BASO,HIZ
+LAY, ブルガ, MKALE, カリ, new, パワー, アルカリ, アル, ブルガリ, TARJER, 乾電池, ALKALINE, LONG, LASTING, アルガ, PADURES, さく, Alkaline, Battery, i.sv, BASO, HIZ
