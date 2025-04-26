@@ -8295,6 +8295,11 @@
         "original_path": "/home/initial/switching_reverie_retrieval/data/dubai-dataset/20241013T204029-env,real,20241013151137_34-_color.png"
     },
     {
+        "raw_image": "/home/initial/detic_demo/Detic/dubai-dataset/raw/dubai_228.png",
+        "bbox_image": "/home/initial/detic_demo/Detic/dubai-dataset/images/dubai_1659.png",
+        "original_path": "/home/initial/switching_reverie_retrieval/data/dubai-dataset/20241013T215938-env,real,20241013151407_438-_color.png"
+    },
+    {
         "raw_image": "/home/initial/detic_demo/Detic/dubai-dataset/raw/dubai_271.png",
         "bbox_image": "/home/initial/detic_demo/Detic/dubai-dataset/images/dubai_1660.png",
         "original_path": "/home/initial/switching_reverie_retrieval/data/dubai-dataset/20241013T204628-env,real,20241013151137_141-_color.png"
