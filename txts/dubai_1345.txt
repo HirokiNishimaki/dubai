@@ -1,1 +1,1 @@
-CHOICE, +17, WOMAN
+Take, trip, MOST, PRODUCTS, FROM

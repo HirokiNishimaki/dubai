@@ -1,1 +1,1 @@
-WALL, CLOCK, 投行, 時計, Board, Light, チャン, ドル, ライト, サンド, キャンドル, AIR
+CIRCULATOR, USB, TYPE, ZWAY, LANTERN, 2WAY

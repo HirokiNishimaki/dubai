@@ -1,1 +1,1 @@
-LED, LAN
+WAL

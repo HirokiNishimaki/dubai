@@ -1,1 +1,1 @@
-キッチン, スタンド, スタント, ニンニク, コレ, ニンニクラ, トング, バトング
+Game, Same, FaBustabo, 1000, MATCH, STACK, UIP, mapickers, Hat, Tick, WARNING, CESE, Fami, Fishdoo, Gane

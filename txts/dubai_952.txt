@@ -1,1 +1,1 @@
-CLOCK, 劉亮, WALL, Board, Light, ボード, ライド, -30.512.00, ライト, キャンドル, チャント, マーカー, ない, 使わ
++95, make, MAGNETIC, Exploited, Wisdom, Ladders, FUN, NO.2409, AMore, Funny, Snakes
