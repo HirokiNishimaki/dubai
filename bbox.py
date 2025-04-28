@@ -4,11 +4,11 @@ import os
 import json
 
 # 画像が入ってるディレクトリ
-image_dir = 'images'
+image_dir = 'bbox'
 # bboxを描画した画像を保存するディレクトリ
-bbox_dir = 'bbox'
+bbox_dir = 'b'
 # 出力するjsonファイル名
-output_json = 'bbox_data.json'
+output_json = 'bbox_data2.json'
 
 # bboxディレクトリがなかったら作る
 os.makedirs(bbox_dir, exist_ok=True)
@@ -28,8 +28,8 @@ for image_file in image_files:
         continue
 
     # 純粋な緑 (#00FF00) だけを抽出
-    lower_green = np.array([0, 255, 0])
-    upper_green = np.array([0, 255, 0])
+    lower_green = np.array([0, 0, 255])
+    upper_green = np.array([0, 0, 255])
     mask = cv2.inRange(image, lower_green, upper_green)
 
     # 輪郭検出
@@ -56,7 +56,7 @@ for image_file in image_files:
 
     # 元画像にbboxを描画
     image_with_bbox = image.copy()
-    cv2.rectangle(image_with_bbox, (x_min, y_min), (x_max, y_max), (0, 0, 255), 2)
+    cv2.rectangle(image_with_bbox, (x_min, y_min), (x_max, y_max), (0, 255, 0), 2)
 
     # bbox/ ディレクトリに保存
     save_path = os.path.join(bbox_dir, image_file)
