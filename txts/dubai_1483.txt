@@ -1,1 +1,1 @@
-HANGING, LAND
+WALL, CLOCK, 投行, 時計, Board, Light, チャン, ドル, ライト, サンド, キャンドル, AIR

@@ -1,1 +1,1 @@
-CHOICE, +17, WOMAN
+お茶, 199, パック, COFFEE, FILTERS

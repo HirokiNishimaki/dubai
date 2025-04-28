@@ -1,1 +1,1 @@
-HANGING, LAMP, 下げ, ランプ, LANP
+FROZEN, MOUSE, INN

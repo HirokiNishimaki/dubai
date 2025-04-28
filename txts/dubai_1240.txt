@@ -1,1 +1,1 @@
-LED
+DESK, LIGHT, 掛け時計, WALL, CLOCK, AD83, 239.05, 9.05, AUC, キャンドル, ライト, TALLY, 9.50, 9.0, ラック, COUNTER
