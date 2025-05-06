@@ -4,17 +4,21 @@ import os
 import json
 
 # 画像が入ってるディレクトリ
-image_dir = 'bbox'
+image_dir = 'images2'
 # bboxを描画した画像を保存するディレクトリ
-bbox_dir = 'b'
+bbox_dir = 'b2'
 # 出力するjsonファイル名
 output_json = 'bbox_data2.json'
 
 # bboxディレクトリがなかったら作る
-os.makedirs(bbox_dir, exist_ok=True)
+# os.makedirs(bbox_dir, exist_ok=True)
 
 # 書き込む内容をためるリスト
 results = []
+
+with open("/home/initial/detic_demo/Detic/mappping2.json", "r") as f:
+    mapping_data = json.load(f)
+
 
 # 画像ファイル一覧を取得
 image_files = [f for f in os.listdir(image_dir) if f.lower().endswith(('.png', '.jpg', '.jpeg'))]
@@ -28,8 +32,8 @@ for image_file in image_files:
         continue
 
     # 純粋な緑 (#00FF00) だけを抽出
-    lower_green = np.array([0, 0, 255])
-    upper_green = np.array([0, 0, 255])
+    lower_green = np.array([0, 255, 0])
+    upper_green = np.array([0, 255, 0])
     mask = cv2.inRange(image, lower_green, upper_green)
 
     # 輪郭検出
@@ -46,9 +50,16 @@ for image_file in image_files:
     y_min = int(y)
     x_max = int(x + w)
     y_max = int(y + h)
+    
+    for mapping_entry in mapping_data:
+        bbox_image = mapping_entry["bbox_image"].split("/")[-1]
+        if bbox_image == image_file:
+            raw_image_path = mapping_entry["raw_image"]
+            break
 
     # 1件分のデータを作る
     result = {
+        "raw_image": raw_image_path,
         "image_path": image_file,
         "bbox": [x_min, y_min, x_max, y_max]
     }
@@ -59,8 +70,8 @@ for image_file in image_files:
     cv2.rectangle(image_with_bbox, (x_min, y_min), (x_max, y_max), (0, 255, 0), 2)
 
     # bbox/ ディレクトリに保存
-    save_path = os.path.join(bbox_dir, image_file)
-    cv2.imwrite(save_path, image_with_bbox)
+    # save_path = os.path.join(bbox_dir, image_file)
+    # cv2.imwrite(save_path, image_with_bbox)
 
 # 全部まとめてJSONファイルに保存
 with open(output_json, 'w') as f:

@@ -14,7 +14,6 @@ def sort_json_by_image_path(input_file, output_file):
         json.dump(sorted_data, f, indent=4, ensure_ascii=False)
 
 # 入力ファイルと出力ファイルのパスを指定
-input_file = "/home/initial/dubai/bbox_data.json"
-output_file = "/home/initial/dubai/sorted_output.json"
-
+input_file = "bbox_data2.json"
+output_file = "bbox_data2_sorted.json"
 sort_json_by_image_path(input_file, output_file)

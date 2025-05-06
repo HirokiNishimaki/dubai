@@ -4800,7 +4800,7 @@
         "original_path": "/home/initial/switching_reverie_retrieval/data/dubai-dataset/20241013T204727-env,real,20241013151407_211-_color.png"
     },
     {
-        "raw_image": "/home/initial/dubai/raw/dubai_344.png",
+        "raw_image": "/home/initial/dubai/raw/dubai_345.png",
         "bbox_image": "/home/initial/dubai/images/dubai_960.png",
         "original_path": "/home/initial/switching_reverie_retrieval/data/dubai-dataset/20241013T204727-env,real,20241013151407_211-_color.png"
     },
@@ -4950,9 +4950,9 @@
         "original_path": "/home/initial/switching_reverie_retrieval/data/dubai-dataset/20241013T215705-env,real,20241013151407_413-_color.png"
     },
     {
-        "raw_image": "/home/initial/dubai/raw/dubai_354.png",
+        "raw_image": "/home/initial/dubai/raw/dubai_355.png",
         "bbox_image": "/home/initial/dubai/images/dubai_990.png",
-        "original_path": "/home/initial/switching_reverie_retrieval/data/dubai-dataset/20241013T215705-env,real,20241013151407_413-_color.png"
+        "original_path": "/home/initial/switching_reverie_retrieval/data/dubai-dataset/20241013T215952-env,real,20241013151407_444-_color.png"
     },
     {
         "raw_image": "/home/initial/dubai/raw/dubai_355.png",
@@ -4960,9 +4960,9 @@
         "original_path": "/home/initial/switching_reverie_retrieval/data/dubai-dataset/20241013T215952-env,real,20241013151407_444-_color.png"
     },
     {
-        "raw_image": "/home/initial/dubai/raw/dubai_355.png",
+        "raw_image": "/home/initial/dubai/raw/dubai_358.png",
         "bbox_image": "/home/initial/dubai/images/dubai_992.png",
-        "original_path": "/home/initial/switching_reverie_retrieval/data/dubai-dataset/20241013T215952-env,real,20241013151407_444-_color.png"
+        "original_path": "/home/initial/switching_reverie_retrieval/data/dubai-dataset/20241013T204302-env,real,20241013151137_93-_color.png"
     },
     {
         "raw_image": "/home/initial/dubai/raw/dubai_355.png",
@@ -4970,67 +4970,67 @@
         "original_path": "/home/initial/switching_reverie_retrieval/data/dubai-dataset/20241013T215952-env,real,20241013151407_444-_color.png"
     },
     {
-        "raw_image": "/home/initial/dubai/raw/dubai_356.png",
+        "raw_image": "/home/initial/dubai/raw/dubai_358.png",
         "bbox_image": "/home/initial/dubai/images/dubai_994.png",
         "original_path": "/home/initial/switching_reverie_retrieval/data/dubai-dataset/20241013T204302-env,real,20241013151137_93-_color.png"
     },
     {
-        "raw_image": "/home/initial/dubai/raw/dubai_356.png",
+        "raw_image": "/home/initial/dubai/raw/dubai_358.png",
         "bbox_image": "/home/initial/dubai/images/dubai_995.png",
         "original_path": "/home/initial/switching_reverie_retrieval/data/dubai-dataset/20241013T204302-env,real,20241013151137_93-_color.png"
     },
     {
-        "raw_image": "/home/initial/dubai/raw/dubai_356.png",
+        "raw_image": "/home/initial/dubai/raw/dubai_359.png",
         "bbox_image": "/home/initial/dubai/images/dubai_996.png",
         "original_path": "/home/initial/switching_reverie_retrieval/data/dubai-dataset/20241013T204302-env,real,20241013151137_93-_color.png"
     },
     {
-        "raw_image": "/home/initial/dubai/raw/dubai_357.png",
+        "raw_image": "/home/initial/dubai/raw/dubai_359.png",
         "bbox_image": "/home/initial/dubai/images/dubai_997.png",
         "original_path": "/home/initial/switching_reverie_retrieval/data/dubai-dataset/20241013T211952-env,real,20241013151137_278-_color.png"
     },
     {
-        "raw_image": "/home/initial/dubai/raw/dubai_357.png",
+        "raw_image": "/home/initial/dubai/raw/dubai_359.png",
         "bbox_image": "/home/initial/dubai/images/dubai_998.png",
         "original_path": "/home/initial/switching_reverie_retrieval/data/dubai-dataset/20241013T211952-env,real,20241013151137_278-_color.png"
     },
     {
-        "raw_image": "/home/initial/dubai/raw/dubai_357.png",
+        "raw_image": "/home/initial/dubai/raw/dubai_360.png",
         "bbox_image": "/home/initial/dubai/images/dubai_999.png",
         "original_path": "/home/initial/switching_reverie_retrieval/data/dubai-dataset/20241013T211952-env,real,20241013151137_278-_color.png"
     },
     {
-        "raw_image": "/home/initial/dubai/raw/dubai_358.png",
+        "raw_image": "/home/initial/dubai/raw/dubai_355.png",
         "bbox_image": "/home/initial/dubai/images/dubai_1000.png",
         "original_path": "/home/initial/switching_reverie_retrieval/data/dubai-dataset/20241013T212357-env,real,20241013151137_394-_color.png"
     },
     {
-        "raw_image": "/home/initial/dubai/raw/dubai_358.png",
+        "raw_image": "/home/initial/dubai/raw/dubai_356.png",
         "bbox_image": "/home/initial/dubai/images/dubai_1001.png",
         "original_path": "/home/initial/switching_reverie_retrieval/data/dubai-dataset/20241013T212357-env,real,20241013151137_394-_color.png"
     },
     {
-        "raw_image": "/home/initial/dubai/raw/dubai_358.png",
+        "raw_image": "/home/initial/dubai/raw/dubai_356.png",
         "bbox_image": "/home/initial/dubai/images/dubai_1002.png",
         "original_path": "/home/initial/switching_reverie_retrieval/data/dubai-dataset/20241013T212357-env,real,20241013151137_394-_color.png"
     },
     {
-        "raw_image": "/home/initial/dubai/raw/dubai_359.png",
+        "raw_image": "/home/initial/dubai/raw/dubai_356.png",
         "bbox_image": "/home/initial/dubai/images/dubai_1003.png",
         "original_path": "/home/initial/switching_reverie_retrieval/data/dubai-dataset/20241013T204054-env,real,20241013151137_44-_color.png"
     },
     {
-        "raw_image": "/home/initial/dubai/raw/dubai_359.png",
+        "raw_image": "/home/initial/dubai/raw/dubai_357.png",
         "bbox_image": "/home/initial/dubai/images/dubai_1004.png",
         "original_path": "/home/initial/switching_reverie_retrieval/data/dubai-dataset/20241013T204054-env,real,20241013151137_44-_color.png"
     },
     {
-        "raw_image": "/home/initial/dubai/raw/dubai_359.png",
+        "raw_image": "/home/initial/dubai/raw/dubai_357.png",
         "bbox_image": "/home/initial/dubai/images/dubai_1005.png",
         "original_path": "/home/initial/switching_reverie_retrieval/data/dubai-dataset/20241013T204054-env,real,20241013151137_44-_color.png"
     },
     {
-        "raw_image": "/home/initial/dubai/raw/dubai_360.png",
+        "raw_image": "/home/initial/dubai/raw/dubai_357.png",
         "bbox_image": "/home/initial/dubai/images/dubai_1006.png",
         "original_path": "/home/initial/switching_reverie_retrieval/data/dubai-dataset/20241013T204300-env,real,20241013151137_92-_color.png"
     },
@@ -5355,12 +5355,12 @@
         "original_path": "/home/initial/switching_reverie_retrieval/data/dubai-dataset/20241013T204925-env,real,20241013151407_260-_color.png"
     },
     {
-        "raw_image": "/home/initial/dubai/raw/dubai_384.png",
+        "raw_image": "/home/initial/dubai/raw/dubai_385.png",
         "bbox_image": "/home/initial/dubai/images/dubai_1071.png",
         "original_path": "/home/initial/switching_reverie_retrieval/data/dubai-dataset/20241013T204925-env,real,20241013151407_260-_color.png"
     },
     {
-        "raw_image": "/home/initial/dubai/raw/dubai_384.png",
+        "raw_image": "/home/initial/dubai/raw/dubai_385.png",
         "bbox_image": "/home/initial/dubai/images/dubai_1072.png",
         "original_path": "/home/initial/switching_reverie_retrieval/data/dubai-dataset/20241013T204925-env,real,20241013151407_260-_color.png"
     },
@@ -5370,7 +5370,7 @@
         "original_path": "/home/initial/switching_reverie_retrieval/data/dubai-dataset/20241013T204017-env,real,20241013151407_99-_color.png"
     },
     {
-        "raw_image": "/home/initial/dubai/raw/dubai_385.png",
+        "raw_image": "/home/initial/dubai/raw/dubai_386.png",
         "bbox_image": "/home/initial/dubai/images/dubai_1074.png",
         "original_path": "/home/initial/switching_reverie_retrieval/data/dubai-dataset/20241013T204017-env,real,20241013151407_99-_color.png"
     },
@@ -5730,7 +5730,7 @@
         "original_path": "/home/initial/switching_reverie_retrieval/data/dubai-dataset/20241013T213830-env,real,20241013151407_373-_color.png"
     },
     {
-        "raw_image": "/home/initial/dubai/raw/dubai_411.png",
+        "raw_image": "/home/initial/dubai/raw/dubai_412.png",
         "bbox_image": "/home/initial/dubai/images/dubai_1146.png",
         "original_path": "/home/initial/switching_reverie_retrieval/data/dubai-dataset/20241013T213830-env,real,20241013151407_373-_color.png"
     },
@@ -5740,7 +5740,7 @@
         "original_path": "/home/initial/switching_reverie_retrieval/data/dubai-dataset/20241013T215002-env,real,20241013151407_394-_color.png"
     },
     {
-        "raw_image": "/home/initial/dubai/raw/dubai_412.png",
+        "raw_image": "/home/initial/dubai/raw/dubai_413.png",
         "bbox_image": "/home/initial/dubai/images/dubai_1148.png",
         "original_path": "/home/initial/switching_reverie_retrieval/data/dubai-dataset/20241013T215002-env,real,20241013151407_394-_color.png"
     },
@@ -5755,7 +5755,7 @@
         "original_path": "/home/initial/switching_reverie_retrieval/data/dubai-dataset/20241013T215829-env,real,20241013151407_423-_color.png"
     },
     {
-        "raw_image": "/home/initial/dubai/raw/dubai_413.png",
+        "raw_image": "/home/initial/dubai/raw/dubai_414.png",
         "bbox_image": "/home/initial/dubai/images/dubai_1151.png",
         "original_path": "/home/initial/switching_reverie_retrieval/data/dubai-dataset/20241013T215829-env,real,20241013151407_423-_color.png"
     },
@@ -5960,7 +5960,7 @@
         "original_path": "/home/initial/switching_reverie_retrieval/data/dubai-dataset/20241013T220045-env,real,20241013151407_451-_color.png"
     },
     {
-        "raw_image": "/home/initial/dubai/raw/dubai_428.png",
+        "raw_image": "/home/initial/dubai/raw/dubai_427.png",
         "bbox_image": "/home/initial/dubai/images/dubai_1192.png",
         "original_path": "/home/initial/switching_reverie_retrieval/data/dubai-dataset/20241013T202803-env,real,20241013151137_2-_color.png"
     },
@@ -5970,7 +5970,7 @@
         "original_path": "/home/initial/switching_reverie_retrieval/data/dubai-dataset/20241013T202803-env,real,20241013151137_2-_color.png"
     },
     {
-        "raw_image": "/home/initial/dubai/raw/dubai_428.png",
+        "raw_image": "/home/initial/dubai/raw/dubai_429.png",
         "bbox_image": "/home/initial/dubai/images/dubai_1194.png",
         "original_path": "/home/initial/switching_reverie_retrieval/data/dubai-dataset/20241013T202803-env,real,20241013151137_2-_color.png"
     },
@@ -5985,7 +5985,7 @@
         "original_path": "/home/initial/switching_reverie_retrieval/data/dubai-dataset/20241013T203959-env,real,20241013151407_92-_color.png"
     },
     {
-        "raw_image": "/home/initial/dubai/raw/dubai_429.png",
+        "raw_image": "/home/initial/dubai/raw/dubai_430.png",
         "bbox_image": "/home/initial/dubai/images/dubai_1197.png",
         "original_path": "/home/initial/switching_reverie_retrieval/data/dubai-dataset/20241013T203959-env,real,20241013151407_92-_color.png"
     },
@@ -6000,7 +6000,7 @@
         "original_path": "/home/initial/switching_reverie_retrieval/data/dubai-dataset/20241013T214945-env,real,20241013151407_387-_color.png"
     },
     {
-        "raw_image": "/home/initial/dubai/raw/dubai_430.png",
+        "raw_image": "/home/initial/dubai/raw/dubai_431.png",
         "bbox_image": "/home/initial/dubai/images/dubai_1200.png",
         "original_path": "/home/initial/switching_reverie_retrieval/data/dubai-dataset/20241013T214945-env,real,20241013151407_387-_color.png"
     },
@@ -6510,52 +6510,52 @@
         "original_path": "/home/initial/switching_reverie_retrieval/data/dubai-dataset/20241013T204438-env,real,20241013151407_182-_color.png"
     },
     {
-        "raw_image": "/home/initial/dubai/raw/dubai_467.png",
+        "raw_image": "/home/initial/dubai/raw/dubai_468.png",
         "bbox_image": "/home/initial/dubai/images/dubai_1302.png",
         "original_path": "/home/initial/switching_reverie_retrieval/data/dubai-dataset/20241013T203637-env,real,20241013151407_11-_color.png"
     },
     {
-        "raw_image": "/home/initial/dubai/raw/dubai_467.png",
+        "raw_image": "/home/initial/dubai/raw/dubai_468.png",
         "bbox_image": "/home/initial/dubai/images/dubai_1303.png",
         "original_path": "/home/initial/switching_reverie_retrieval/data/dubai-dataset/20241013T203637-env,real,20241013151407_11-_color.png"
     },
     {
-        "raw_image": "/home/initial/dubai/raw/dubai_467.png",
+        "raw_image": "/home/initial/dubai/raw/dubai_468.png",
         "bbox_image": "/home/initial/dubai/images/dubai_1304.png",
         "original_path": "/home/initial/switching_reverie_retrieval/data/dubai-dataset/20241013T203637-env,real,20241013151407_11-_color.png"
     },
     {
-        "raw_image": "/home/initial/dubai/raw/dubai_468.png",
+        "raw_image": "/home/initial/dubai/raw/dubai_469.png",
         "bbox_image": "/home/initial/dubai/images/dubai_1305.png",
         "original_path": "/home/initial/switching_reverie_retrieval/data/dubai-dataset/20241013T204010-env,real,20241013151137_27-_color.png"
     },
     {
-        "raw_image": "/home/initial/dubai/raw/dubai_468.png",
+        "raw_image": "/home/initial/dubai/raw/dubai_469.png",
         "bbox_image": "/home/initial/dubai/images/dubai_1306.png",
         "original_path": "/home/initial/switching_reverie_retrieval/data/dubai-dataset/20241013T204010-env,real,20241013151137_27-_color.png"
     },
     {
-        "raw_image": "/home/initial/dubai/raw/dubai_468.png",
+        "raw_image": "/home/initial/dubai/raw/dubai_469.png",
         "bbox_image": "/home/initial/dubai/images/dubai_1307.png",
         "original_path": "/home/initial/switching_reverie_retrieval/data/dubai-dataset/20241013T204010-env,real,20241013151137_27-_color.png"
     },
     {
-        "raw_image": "/home/initial/dubai/raw/dubai_469.png",
+        "raw_image": "/home/initial/dubai/raw/dubai_470.png",
         "bbox_image": "/home/initial/dubai/images/dubai_1308.png",
         "original_path": "/home/initial/switching_reverie_retrieval/data/dubai-dataset/20241013T213932-env,real,20241013151407_377-_color.png"
     },
     {
-        "raw_image": "/home/initial/dubai/raw/dubai_469.png",
+        "raw_image": "/home/initial/dubai/raw/dubai_470.png",
         "bbox_image": "/home/initial/dubai/images/dubai_1309.png",
         "original_path": "/home/initial/switching_reverie_retrieval/data/dubai-dataset/20241013T213932-env,real,20241013151407_377-_color.png"
     },
     {
-        "raw_image": "/home/initial/dubai/raw/dubai_469.png",
+        "raw_image": "/home/initial/dubai/raw/dubai_470.png",
         "bbox_image": "/home/initial/dubai/images/dubai_1310.png",
         "original_path": "/home/initial/switching_reverie_retrieval/data/dubai-dataset/20241013T213932-env,real,20241013151407_377-_color.png"
     },
     {
-        "raw_image": "/home/initial/dubai/raw/dubai_470.png",
+        "raw_image": "/home/initial/dubai/raw/dubai_471.png",
         "bbox_image": "/home/initial/dubai/images/dubai_1311.png",
         "original_path": "/home/initial/switching_reverie_retrieval/data/dubai-dataset/20241013T203644-env,real,20241013151407_14-_color.png"
     },
@@ -6565,7 +6565,7 @@
         "original_path": "/home/initial/switching_reverie_retrieval/data/dubai-dataset/20241013T203644-env,real,20241013151407_14-_color.png"
     },
     {
-        "raw_image": "/home/initial/dubai/raw/dubai_470.png",
+        "raw_image": "/home/initial/dubai/raw/dubai_471.png",
         "bbox_image": "/home/initial/dubai/images/dubai_1313.png",
         "original_path": "/home/initial/switching_reverie_retrieval/data/dubai-dataset/20241013T203644-env,real,20241013151407_14-_color.png"
     },
@@ -6580,7 +6580,7 @@
         "original_path": "/home/initial/switching_reverie_retrieval/data/dubai-dataset/20241013T204119-env,real,20241013151407_125-_color.png"
     },
     {
-        "raw_image": "/home/initial/dubai/raw/dubai_471.png",
+        "raw_image": "/home/initial/dubai/raw/dubai_472.png",
         "bbox_image": "/home/initial/dubai/images/dubai_1316.png",
         "original_path": "/home/initial/switching_reverie_retrieval/data/dubai-dataset/20241013T204119-env,real,20241013151407_125-_color.png"
     },
@@ -6825,7 +6825,7 @@
         "original_path": "/home/initial/switching_reverie_retrieval/data/dubai-dataset/20241013T220047-env,real,20241013151407_452-_color.png"
     },
     {
-        "raw_image": "/home/initial/dubai/raw/dubai_488.png",
+        "raw_image": "/home/initial/dubai/raw/dubai_489.png",
         "bbox_image": "/home/initial/dubai/images/dubai_1365.png",
         "original_path": "/home/initial/switching_reverie_retrieval/data/dubai-dataset/20241013T220047-env,real,20241013151407_452-_color.png"
     },
@@ -6840,7 +6840,7 @@
         "original_path": "/home/initial/switching_reverie_retrieval/data/dubai-dataset/20241013T203826-env,real,20241013151407_53-_color.png"
     },
     {
-        "raw_image": "/home/initial/dubai/raw/dubai_489.png",
+        "raw_image": "/home/initial/dubai/raw/dubai_490.png",
         "bbox_image": "/home/initial/dubai/images/dubai_1368.png",
         "original_path": "/home/initial/switching_reverie_retrieval/data/dubai-dataset/20241013T203826-env,real,20241013151407_53-_color.png"
     },
@@ -6855,7 +6855,7 @@
         "original_path": "/home/initial/switching_reverie_retrieval/data/dubai-dataset/20241013T204132-env,real,20241013151137_59-_color.png"
     },
     {
-        "raw_image": "/home/initial/dubai/raw/dubai_490.png",
+        "raw_image": "/home/initial/dubai/raw/dubai_491.png",
         "bbox_image": "/home/initial/dubai/images/dubai_1371.png",
         "original_path": "/home/initial/switching_reverie_retrieval/data/dubai-dataset/20241013T204132-env,real,20241013151137_59-_color.png"
     },
@@ -6870,7 +6870,7 @@
         "original_path": "/home/initial/switching_reverie_retrieval/data/dubai-dataset/20241013T204751-env,real,20241013151407_221-_color.png"
     },
     {
-        "raw_image": "/home/initial/dubai/raw/dubai_491.png",
+        "raw_image": "/home/initial/dubai/raw/dubai_492.png",
         "bbox_image": "/home/initial/dubai/images/dubai_1374.png",
         "original_path": "/home/initial/switching_reverie_retrieval/data/dubai-dataset/20241013T204751-env,real,20241013151407_221-_color.png"
     },
@@ -7740,7 +7740,7 @@
         "original_path": "/home/initial/switching_reverie_retrieval/data/dubai-dataset/20241013T204636-env,real,20241013151137_144-_color.png"
     },
     {
-        "raw_image": "/home/initial/dubai/raw/dubai_552.png",
+        "raw_image": "/home/initial/dubai/raw/dubai_553.png",
         "bbox_image": "/home/initial/dubai/images/dubai_1548.png",
         "original_path": "/home/initial/switching_reverie_retrieval/data/dubai-dataset/20241013T204636-env,real,20241013151137_144-_color.png"
     },
@@ -7755,7 +7755,7 @@
         "original_path": "/home/initial/switching_reverie_retrieval/data/dubai-dataset/20241013T205445-env,real,20241013151407_297-_color.png"
     },
     {
-        "raw_image": "/home/initial/dubai/raw/dubai_553.png",
+        "raw_image": "/home/initial/dubai/raw/dubai_554.png",
         "bbox_image": "/home/initial/dubai/images/dubai_1551.png",
         "original_path": "/home/initial/switching_reverie_retrieval/data/dubai-dataset/20241013T205445-env,real,20241013151407_297-_color.png"
     },
@@ -7770,7 +7770,7 @@
         "original_path": "/home/initial/switching_reverie_retrieval/data/dubai-dataset/20241013T220357-env,real,20241013151407_485-_color.png"
     },
     {
-        "raw_image": "/home/initial/dubai/raw/dubai_554.png",
+        "raw_image": "/home/initial/dubai/raw/dubai_555.png",
         "bbox_image": "/home/initial/dubai/images/dubai_1554.png",
         "original_path": "/home/initial/switching_reverie_retrieval/data/dubai-dataset/20241013T220357-env,real,20241013151407_485-_color.png"
     },
@@ -7785,7 +7785,7 @@
         "original_path": "/home/initial/switching_reverie_retrieval/data/dubai-dataset/20241013T204107-env,real,20241013151407_120-_color.png"
     },
     {
-        "raw_image": "/home/initial/dubai/raw/dubai_555.png",
+        "raw_image": "/home/initial/dubai/raw/dubai_556.png",
         "bbox_image": "/home/initial/dubai/images/dubai_1557.png",
         "original_path": "/home/initial/switching_reverie_retrieval/data/dubai-dataset/20241013T204107-env,real,20241013151407_120-_color.png"
     },
@@ -7800,7 +7800,7 @@
         "original_path": "/home/initial/switching_reverie_retrieval/data/dubai-dataset/20241013T213816-env,real,20241013151407_367-_color.png"
     },
     {
-        "raw_image": "/home/initial/dubai/raw/dubai_556.png",
+        "raw_image": "/home/initial/dubai/raw/dubai_55.png",
         "bbox_image": "/home/initial/dubai/images/dubai_1560.png",
         "original_path": "/home/initial/switching_reverie_retrieval/data/dubai-dataset/20241013T213816-env,real,20241013151407_367-_color.png"
     },
