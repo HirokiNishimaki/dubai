@@ -15,6 +15,7 @@ for i, mapping_entry in enumerate(mapping_data):
     raw_image_path = mapping_entry["raw_image"]
     
     for entry in mapping_data:
+        
         if entry["raw_image"] == raw_image_path:
             output_txt_file = bbox_image.replace(".png", ".txt")
             same_txt_file = entry["bbox_image"].split("/")[-1].replace(".png", ".txt")

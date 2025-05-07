@@ -500,6 +500,16 @@
         ]
     },
     {
+        "raw_image": "dubai_508.png",
+        "image_path": "dubai_1897.png",
+        "bbox": [
+            400,
+            310,
+            491,
+            480
+        ]
+    },
+    {
         "raw_image": "dubai_344.png",
         "image_path": "dubai_712.png",
         "bbox": [
@@ -1157,6 +1167,16 @@
             9,
             193,
             130
+        ]
+    },
+    {
+        "raw_image": "dubai_343.png",
+        "image_path": "dubai_1892.png",
+        "bbox": [
+            60,
+            370,
+            640,
+            461
         ]
     },
     {
@@ -3840,6 +3860,16 @@
         ]
     },
     {
+        "raw_image": "dubai_354.png",
+        "image_path": "dubai_1893.png",
+        "bbox": [
+            100,
+            350,
+            261,
+            480
+        ]
+    },
+    {
         "raw_image": "dubai_412.png",
         "image_path": "dubai_115.png",
         "bbox": [
@@ -4850,6 +4880,16 @@
         ]
     },
     {
+        "raw_image": "dubai_519.png",
+        "image_path": "dubai_1898.png",
+        "bbox": [
+            150,
+            220,
+            241,
+            441
+        ]
+    },
+    {
         "raw_image": "dubai_98.png",
         "image_path": "dubai_526.png",
         "bbox": [
@@ -5397,6 +5437,16 @@
             154,
             114,
             298
+        ]
+    },
+    {
+        "raw_image": "dubai_313.png",
+        "image_path": "dubai_1891.png",
+        "bbox": [
+            340,
+            120,
+            381,
+            231
         ]
     },
     {
@@ -6620,6 +6670,16 @@
         ]
     },
     {
+        "raw_image": "dubai_307.png",
+        "image_path": "dubai_1890.png",
+        "bbox": [
+            290,
+            290,
+            640,
+            381
+        ]
+    },
+    {
         "raw_image": "dubai_343.png",
         "image_path": "dubai_216.png",
         "bbox": [
@@ -6787,6 +6847,16 @@
             0,
             549,
             123
+        ]
+    },
+    {
+        "raw_image": "dubai_478.png",
+        "image_path": "dubai_1896.png",
+        "bbox": [
+            10,
+            0,
+            241,
+            141
         ]
     },
     {
@@ -12920,6 +12990,16 @@
         ]
     },
     {
+        "raw_image": "dubai_554.png",
+        "image_path": "dubai_1899.png",
+        "bbox": [
+            240,
+            310,
+            381,
+            480
+        ]
+    },
+    {
         "raw_image": "dubai_526.png",
         "image_path": "dubai_1823.png",
         "bbox": [
@@ -17130,6 +17210,16 @@
         ]
     },
     {
+        "raw_image": "dubai_429.png",
+        "image_path": "dubai_1895.png",
+        "bbox": [
+            510,
+            340,
+            640,
+            480
+        ]
+    },
+    {
         "raw_image": "dubai_570.png",
         "image_path": "dubai_1495.png",
         "bbox": [
@@ -17997,6 +18087,16 @@
             261,
             596,
             301
+        ]
+    },
+    {
+        "raw_image": "dubai_396.png",
+        "image_path": "dubai_1894.png",
+        "bbox": [
+            500,
+            130,
+            640,
+            451
         ]
     },
     {
